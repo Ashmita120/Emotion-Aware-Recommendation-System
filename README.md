@@ -1,4 +1,4 @@
-# Emotion-Aware-Recommendation-System-
+# Emotion-Aware-Recommendation-System
 
 A sophisticated movie recommendation system that analyzes user sentiment/emotion using LSTM neural networks and recommends movies based on content similarity using cosine similarity algorithms. This project combines natural language processing and machine learning to create a personalized movie recommendation experience. The system analyzes user input to detect their emotional state and suggests movies that align with their current mood.
 
