@@ -27,10 +27,10 @@ The project consists of two main components:
 
 ## System Architecture
 ### ANN Architecture
-<img src = "ANN_Arch.jpeg" alt="ANN Architecture" align = "center">
+<img src = "01_ANN.png" alt="ANN Architecture" align = "center">
 
 ### LSTM Architecture
-<img src = "LSTM_Arch.jpeg" alt="LSTM Architecture" align = "center">
+<img src = "02_BILSTM.png" alt="LSTM Architecture" align = "center">
 
 ## Features
 
