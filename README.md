@@ -104,13 +104,7 @@ cd Emotion-Aware-Recommendation-System
 ```
 pip install -r requirements.txt
 ```
-### Run the notebooks
-```
-jupyter notebook
-```
-### Access the webapp using the live link
-```
-```
+
 ## Usage
 
 **1. Sentiment Analysis**
