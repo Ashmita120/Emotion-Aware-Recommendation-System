@@ -11,6 +11,9 @@ The project consists of two main components:
 
 **Movie Recommendation Module**: Employs cosine similarity algorithms to recommend movies based on the detected mood and content features
 
+## Demo
+<img src = "Interface.png" alt="User Interface" align = "center">
+
 ## Datasets Used
 
 [Emotion Dataset](https://huggingface.co/datasets/dair-ai/emotion)
